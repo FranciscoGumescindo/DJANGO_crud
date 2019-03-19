@@ -1,0 +1,5 @@
+Requerimientos para hacer funcionar este proyecto..
+-Django
+-pip
+-pytz
+-setuptools
